@@ -11,7 +11,7 @@ The primary objective was to perform an inital data and exploratory analysis of 
 This project focused on the online grocery store Instacart. The goal was to uncover more information about the sales patterns of their existing client base. Instacart wanted to apply a targeted marketing strategy by using different marketing campaigns to target specific customer demographics.
 
 
-**Data**
+*Data*
 We were provided with four datasets that contained all the customer information:
 
 Orders
@@ -20,7 +20,7 @@ Products
 Customers
 
 
-**Folders**
+*Folders*
 
 The basket analysis was separated into five folders:
 
