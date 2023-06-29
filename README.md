@@ -14,7 +14,7 @@ This project focused on the online grocery store Instacart. The goal was to unco
 *Data*
 
 
-We were provided with four datasets that contained all the customer information:
+We were provided with four datasets that contained all the customer information
 
 Orders
 Orders_products_prior
