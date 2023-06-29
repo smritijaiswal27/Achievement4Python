@@ -12,6 +12,8 @@ This project focused on the online grocery store Instacart. The goal was to unco
 
 
 *Data*
+
+
 We were provided with four datasets that contained all the customer information:
 
 Orders
@@ -31,21 +33,6 @@ Analysis: Contains the Visualizations used for developing insights and presentin
 Sent to client: Contains the Final Report
 
 
-We were provided with four datasets that contained all the customer information:
-
-Orders
-Orders_products_prior
-Products
-Customers
 
 
-Folders
 
-
-The basket analysis was separated into five folders:
-
-Project Management: Contains the Project Brief
-Data: Separated into Original and Prepared Data. These contain the original dataframes and the dataframes after they have been cleaned and prepared for analysis respectively. NOTE: This folder has not been included
-Sripts: Contains all the Python coding involved for the entire analysis process
-Analysis: Contains the Visualizations used for developing insights and presenting on the final report
-Sent to client: Contains the Final Report
